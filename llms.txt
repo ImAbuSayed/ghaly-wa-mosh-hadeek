@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghaly-wa-mosh-hadeek/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Ghaly Wa Mosh Hadeek](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Ghaly Wa Mosh Hadeek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
