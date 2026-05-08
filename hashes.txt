@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghaly Wa Mosh Hadeek
+
+This log tracks the cryptographic history and versioning for the song **Ghaly Wa Mosh Hadeek** (ghaly-wa-mosh-hadeek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:33:55.575487 | `v1` | `8153fb00d72bcfbbf749e32e51a1a89aec8efffae256902cfd5b7361be63e91f` | `d33ade3deca80651019bc646f362946dc7f0e65264a9a897e589eb878c053ac3` | `2026-05-08_ghaly-wa-mosh-hadeek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
